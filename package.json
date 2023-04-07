@@ -12,7 +12,7 @@
     "react-icons": "^3.10.0",
     "react-intersection-observer": "^8.32.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.2",
+    "react-scripts": "^5.0.1",
     "react-scroll": "^1.8.3",
     "react-tilt": "^0.1.4",
     "styled-components": "^5.1.1"
